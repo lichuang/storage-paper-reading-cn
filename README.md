@@ -37,7 +37,7 @@
 
 ### Blink-Tree
 
-* [《Efficient Locking for Concurrent Operations on B-Trees 》](./pdf/storageengine/blinktree/Efficient Locking for Concurrent Operations on B-Trees.pdf):[周刊（第23期）：图解Blink-Tree：B+Tree的一种并发优化结构和算法 - codedump的网络日志](https://www.codedump.info/post/20220807-weekly-23/)
+* [《Efficient Locking for Concurrent Operations on B-Trees 》](./pdf/storageengine/blinktree/EfficientLockingforConcurrentOperationsonB-Trees.pdf):[周刊（第23期）：图解Blink-Tree：B+Tree的一种并发优化结构和算法 - codedump的网络日志](https://www.codedump.info/post/20220807-weekly-23/)
 
 # Todo
 
